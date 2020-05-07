@@ -1,0 +1,18 @@
+	Welcome Dreamvalley Retail
+
+ Bill No : 5832
+ Customer Name : rohi
+ Customer PhoneNo : 8707031849
+========================================
+ Products		Qty		Price
+========================================
+ Soap		4		240
+ Hair spray		1		400
+ Maza		4		240
+ ThumbsUp		5		200
+----------------------------------------
+ Cosmatic Tax			Rs. 64.0
+ Cold Drink Tax			Rs. 22.0
+----------------------------------------
+ Total Bill : 			 Rs.1166.0
+----------------------------------------

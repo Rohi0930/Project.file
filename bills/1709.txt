@@ -1,0 +1,17 @@
+	Welcome Dreamvalley Retail
+
+ Bill No : 1709
+ Customer Name : rohi
+ Customer PhoneNo : 8707031849
+========================================
+ Products		Qty		Price
+========================================
+ Soap		2		120
+ Daal		5		450
+ Sugar		6		480
+----------------------------------------
+ Cosmatic Tax			Rs. 12.0
+ Grocery Tax			Rs. 46.5
+----------------------------------------
+ Total Bill : 			 Rs.1108.5
+----------------------------------------

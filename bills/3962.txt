@@ -1,0 +1,18 @@
+	Welcome Dreamvalley Retail
+
+ Bill No : 3962
+ Customer Name : apoo
+ Customer PhoneNo : 866654458
+========================================
+ Products		Qty		Price
+========================================
+ Hair spray		5		2000
+ Rice		7		2100
+ ThumbsUp		8		320
+----------------------------------------
+ Cosmatic Tax			Rs. 200.0
+ Grocery Tax			Rs. 105.0
+ Cold Drink Tax			Rs. 16.0
+----------------------------------------
+ Total Bill : 			 Rs.4741.0
+----------------------------------------

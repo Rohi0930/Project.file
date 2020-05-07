@@ -1,0 +1,21 @@
+	Welcome Dreamvalley Retail
+
+ Bill No : 5470
+ Customer Name : rohi
+ Customer PhoneNo : 8707031849
+========================================
+ Products		Qty		Price
+========================================
+ Soap		2		120
+ Hair spray		4		1600
+ Sugar		4		320
+ Rice		4		1200
+ Cock		2		80
+ ThumbsUp		4		160
+----------------------------------------
+ Cosmatic Tax			Rs. 172.0
+ Grocery Tax			Rs. 76.0
+ Cold Drink Tax			Rs. 12.0
+----------------------------------------
+ Total Bill : 			 Rs.3740.0
+----------------------------------------

@@ -1,0 +1,19 @@
+	Welcome Dreamvalley Retail
+
+ Bill No : 6503
+ Customer Name : rohi
+ Customer PhoneNo : 8707031849
+========================================
+ Products		Qty		Price
+========================================
+ Face Cream		5		1500
+ FoodOil		3		360
+ Sugar		2		160
+ Frooti		2		120
+----------------------------------------
+ Cosmatic Tax			Rs. 150.0
+ Grocery Tax			Rs. 26.0
+ Cold Drink Tax			Rs. 6.0
+----------------------------------------
+ Total Bill : 			 Rs.2322.0
+----------------------------------------
